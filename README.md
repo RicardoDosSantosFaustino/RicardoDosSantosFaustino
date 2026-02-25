@@ -49,7 +49,7 @@ Desenvolvedor **Full-Stack** focado em criar soluções escaláveis e funcionais
 ###
 
 <div align="center">
-  <a src="https://www.linkedin.com/in/ricardo-dos-santos-faustino-b073a5320/"> <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  /> </a>
+  <a src=""> <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  /> </a>
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
   <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo"  />
   
@@ -61,7 +61,7 @@ Desenvolvedor **Full-Stack** focado em criar soluções escaláveis e funcionais
 ---
 ### 
 <div align="center" >
-  <img src="https://streak-stats.demolab.com?user=RicardoDosSantosFaustino&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="215" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=RicardoDosSantosFaustino&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="215" alt="streak graph"  />
   
 </div>
 
@@ -76,6 +76,15 @@ Desenvolvedor **Full-Stack** focado em criar soluções escaláveis e funcionais
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/RicardoDosSantosFaustino/RicardoDosSantosFaustino/output/pacman-contribution-graph.svg">
 </picture>
 
+---
 ###
 
+
+
+  
+  [![RicardoDosSantosFaustino's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RicardoDosSantosFaustino&bg_color=0d1117&color=fff&line=fff&point=fff&area=true&area_color=fff&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
+ 
+</div>
 
