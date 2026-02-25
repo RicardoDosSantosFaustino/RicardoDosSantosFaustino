@@ -31,6 +31,7 @@ Assim como no Pac-Man, estou sempre em movimento, "comendo" desafios e fugindo d
   <img src="https://skillicons.dev/icons?i=html" height="60" alt="html logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=css" height="60" alt="storybook logo"  />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=js" height="60" alt="js logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=bootstrap" height="60" alt="css logo"  />
