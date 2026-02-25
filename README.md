@@ -1,6 +1,23 @@
 <h1 align="center">Hello World,I'm Ricardo </h1>
 
 ###
+<div align="center">
+
+
+Desenvolvedor **Full-Stack** transformando linhas de código em experiências digitais. 
+Assim como no Pac-Man, estou sempre em movimento, "comendo" desafios e fugindo da zona de conforto (e dos bugs! ).
+
+---
+
+###  Meu Inventário
+
+**Front-end:** React • JavaScript • HTML5 • CSS3 • Bootstrap
+**Back-end:** PHP (Laravel) • Java • Python
+
+*Objetivo: Criar aplicações que façam a diferença.*
+
+</div>
+
 
 <div align="center">
 
@@ -34,24 +51,23 @@
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
   <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo"  />
+  
 </div>
 
 <br>
-<br>
 
 
-
-
+---
 ### 
 <div align="center" >
   <img src="https://streak-stats.demolab.com?user=RicardoDosSantosFaustino&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="215" alt="streak graph"  />
   
 </div>
-<br>
-<br> 
+
+
 
 ###
-
+---
 ###
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RicardoDosSantosFaustino/RicardoDosSantosFaustino/output/pacman-contribution-graph-dark.svg">
