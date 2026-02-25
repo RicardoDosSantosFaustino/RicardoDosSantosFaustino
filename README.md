@@ -23,9 +23,10 @@
   <img src="https://skillicons.dev/icons?i=php" height="60" alt="php logo"  />
  
 
-
   
 </div>
+<br>
+
 
 ###
 
@@ -35,6 +36,22 @@
   <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo"  />
 </div>
 
+<br>
+<br>
+
+
+
+
+### 
+<div align="center" >
+  <img src="https://streak-stats.demolab.com?user=RicardoDosSantosFaustino&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="215" alt="streak graph"  />
+  
+</div>
+<br>
+<br> 
+
+###
+
 ###
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RicardoDosSantosFaustino/RicardoDosSantosFaustino/output/pacman-contribution-graph-dark.svg">
@@ -43,3 +60,5 @@
 </picture>
 
 ###
+
+
