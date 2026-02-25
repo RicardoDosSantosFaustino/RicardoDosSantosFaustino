@@ -3,16 +3,16 @@
 ###
 <div align="center">
 
-
-Desenvolvedor **Full-Stack** transformando linhas de código em experiências digitais. 
-Assim como no Pac-Man, estou sempre em movimento, "comendo" desafios e fugindo da zona de conforto (e dos bugs! ).
+Desenvolvedor **Full-Stack** focado em criar soluções escaláveis e funcionais. Transformo código em experiências digitais reais — sempre em movimento, como no Pac-Man, resolvendo desafios e caçando bugs.
 
 ---
 
 ###  Meu Inventário
 
-**Front-end:** React • JavaScript • HTML5 • CSS3 • Bootstrap
-**Back-end:** PHP (Laravel) • Java • Python
+**Front-end:** React, JavaScript, HTML5, CSS3, <br>
+**Back-end:** PHP (Laravel), Java, Python <br>
+**Banco de Dados:** MySQL, SQL Server <br>
+**Outros:** Git, APIs REST
 
 *Objetivo: Criar aplicações que façam a diferença.*
 
